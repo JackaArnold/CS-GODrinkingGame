@@ -10,4 +10,4 @@ there is 40% change that no one drinks at the start of the round
 there is a 10% change that everyone has to drink at the start of the round
 finally there will be a round rule for each round where a random rule will be selected and that rule must be followed for that round.
 
-Let the games begin.
+Let the games begin. Dont get too rowdy.
